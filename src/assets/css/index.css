@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* 首页 */
+/* #module .el-aside{
+  height: 100vh;
+  background-color: #333444;
+}
+#module .el-aside ul {
+    background-color: #333444;
+}
+#module .el-aside ul li{
+    color: #fff;
+}
+.el-menu :hover{
+    background-color: black;
+}
+li.el-menu-item.is-active{
+    background-color:  grey;
+}
+
+
+.el-submenu__title {
+    color: #fff;
+}
+.el-submenu :hover {
+    background-color: black;
+} */
+
+/* 登录 */
+.login{
+    /* background: url(../img/star-2.png) no-repeat; */
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.login-content{
+    background-color: #fff;
+    width: 45vh;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 3px 20px 2px rgb(0, 0, 0,.3);
+    position:relative;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.login .login-title{
+    font-size: 20px;
+    border: none;
+    margin: 20px 0;
+}
+.login .el-form-item {
+    display: flex;
+    margin: 10px;
+}
+
+.login .login-content .btn{
+    display: flex;
+    position: relative;
+    margin-top: 10px;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+.login-btn{
+    color: #fff;
+    background-color: blue;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 0;
+}
+.register-btn{
+    color: #fff;
+    background-color: blue;
+    width: 100px;
+    border-radius: 10px;
+}
+
+
+
+/* 注册 */
+/* .register {
+    background: url(../img/star-1.png) no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.register-content{
+    background-color: #fff;
+    width: 45vh;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 20px 2px rgb(0, 0, 0,.3);
+    position:relative;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.register .register-title{
+    font-size: 20px;
+    border: none;
+    margin: 20px 0;
+}
+.register .save-btn{
+    margin-left: -70px;
+} */
